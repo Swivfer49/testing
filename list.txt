@@ -4,4 +4,10 @@ Requirements
 Cool things
 2 front-end dev
 1 back-end dev
+<<<<<<< HEAD
 Soft
+=======
+hi there
+Dave Likes Cheese
+1234
+>>>>>>> feature
